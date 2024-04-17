@@ -1,0 +1,42 @@
+body{
+    background-color: #68963c;
+}
+
+h1{
+    color: #90c51d;
+    font-family: "Elsie", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    color: #68963c;
+    font-size:large;
+    font-family: "Elsie", serif;
+    font-weight: 500;
+    font-style:italic;
+    
+}
+
+.nav-item{
+    
+    font-size:medium;
+    font-family: "Elsie", serif;
+    font-weight: 500;
+    font-size: large;
+    
+}
+
+.carousel-inner{
+    margin-top: 30%;
+}
+
+.carousel-caption{
+    color: #90c51d;
+}
+
+.copyright{
+    color: #68963c;
+    margin-left: 45%;
+    
+}
