@@ -17,9 +17,6 @@ h2{
     font-style:italic;
     
 }
-.navbar{
-   
-}
 
 .nav-item{
     
@@ -43,3 +40,12 @@ h2{
     margin-left: 45%;
     
 }
+
+
+
+@media (min-width: 1025px) {
+    .h-custom {
+   
+        height: 100vh !important;
+    }
+    }
